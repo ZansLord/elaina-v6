@@ -86,7 +86,7 @@ global.loadDatabase = async function loadDatabase() {
 }
 loadDatabase()
 
-global.authFile = `${opts._[0] || 'session'}.json`
+global.authFile = `${opts._[0] || 'zans'}.json`
 const { state, saveState } = store.useSingleFileAuthState(global.authFile)
 
 const connectionOptions = {
@@ -165,8 +165,8 @@ global.reloadHandler = async function (restatConn) {
     conn.ev.off('creds.update', conn.credsUpdate)
   }
 
-  conn.welcome = '✧━━━━━━[ *WELCOME* ]━━━━━━✧\n\n┏––––––━━━━━━━━•\n│⫹⫺ @subject\n┣━━━━━━━━┅┅┅\n│( 👋 Hallo @user)\n├[ *INTRO* ]—\n│ *Nama:* \n│ *Umur:* \n│ *Gender:*\n┗––––––━━┅┅┅\n\n––––––┅┅ *DESCRIPTION* ┅┅––––––\n@desc'
-  conn.bye = '✧━━━━━━[ *GOOD BYE* ]━━━━━━✧\nSayonara *@user* 👋( ╹▽╹ )'
+  conn.welcome = '✧━━━━━━[ *𝐖𝐈𝐋𝐔𝐉𝐄𝐍𝐆 𝐒𝐔𝐌𝐏𝐈𝐍𝐆* ]━━━━━━✧\n\n┏––––––━━━━━━━━•\n│⫹⫺ @subject\n┣━━━━━━━━┅┅┅\n│( 👋 Hallo @user)\n├[ *INTRO* ]—\n│ *Nama:* \n│ *Umur:* \n│ *Gender:*\n┗––––––━━┅┅┅\n\n––––––┅┅ *DESCRIPTION* ┅┅––––––\n@desc'
+  conn.bye = '✧━━━━━━[ *𝐖𝐈𝐋𝐔𝐉𝐄𝐍𝐆 𝐊𝐀𝐍𝐓𝐔𝐍* ]━━━━━━✧\nDadah *@user* 👋( ╹▽╹ )'
   conn.spromote = '@user sekarang admin!'
   conn.sdemote = '@user sekarang bukan admin!'
   conn.sDesc = 'Deskripsi telah diubah ke \n@desc'

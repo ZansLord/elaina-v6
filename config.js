@@ -26,34 +26,34 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     })
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/lordagam23_' 
-global.syt = 'https://youtube.com/channel/UCbbWYVvhTHz3AzfgYz4fMgg'
-global.sgh = 'https://github.com/KazeDevID/'
-global.sgc = 'https://chat.whatsapp.com/Lg1V1A0lRRA7d9Iaq117um'
-global.swa = 'wa.me/6282217590187'
-global.stg = 't.me/KenalSayaaa'
+global.sig = 'https://instagram.com/black_team_indonesia' 
+global.syt = 'https://youtube.com/@memedakwahislam1'
+global.sgh = 'https://github.com/ZansLord/'
+global.sgc = 'https://chat.whatsapp.com/EQIlGEtQlAb7WU0IrmggkN'
+global.swa = 'wa.me/6285869074622'
+global.stg = 't.me/ZansLord'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
-global.ultahown = 'Maret 23 2023 00:00:01'
+global.ultahown = 'Juli 04 2023 00:00:01'
 
 /*============== PAYMENT ==============*/
-global.pdana = '082217590187'
+global.pdana = '085869074622'
 global.povo = '-'
-global.pgopay = '082217590187'
-global.ppulsa = '082217590187'
-global.ppulsa2 = '082217590187'
-global.psaweria = 'https://saweria.co/KazeDevID'
+global.pgopay = '-'
+global.ppulsa = '085869084722'
+global.ppulsa2 = '0895333501279'
+global.psaweria = 'https://saweria.co/-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282217590187'
-global.nomorown = '6282217590187'
-global.namebot = 'KinakoBot'
-global.nameown = 'Lord Kaze'
+global.nomorbot = '62895333501279'
+global.nomorown = '6285869074622'
+global.namebot = '𝑬𝒍𝒂𝒊𝒏𝒂 𝐶𝒉𝑎𝑛'
+global.nameown = '𝙰𝚋𝚍𝚞𝚕 𝙼𝚊𝚕𝚒𝚔'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282217590187', 'Lord Kaze', 'true']
+  ['6285869074622', 'ZansLord', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -82,26 +82,26 @@ global.danied = '*𝗘𝗥𝗥𝗢𝗥*'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/P6gSxBm/Menu-Kinako-Bot.jpg' //Main Thumbnail
-global.imagebot = 'https://i.ibb.co/PxSxQhd/20221103-171638.jpg'
+global.thumb = 'https://i.ibb.co/Lht3Mvz/elaina-anime-gfx-design-by-imayaka-dfdu9u6.jpg' //Main Thumbnail
+global.imagebot = 'https://i.ibb.co/K6tMcKc/peakpx-7.jpg'
 global.giflogo = 'https://i.ibb.co/PxSxQhd/20221103-171638.jpg'
-global.giflogo2 = 'https://i.ibb.co/P6gSxBm/Menu-Kinako-Bot.jpg'
-global.thumbs = ['https://i.ibb.co/P6gSxBm/Menu-Kinako-Bot.jpg']
+global.giflogo2 = 'https://i.ibb.co/Lht3Mvz/elaina-anime-gfx-design-by-imayaka-dfdu9u6.jpg'
+global.thumbs = ['https://i.ibb.co/Lht3Mvz/elaina-anime-gfx-design-by-imayaka-dfdu9u6.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.thumbBanned = 'https://i.ibb.co/wQyLDLx/kaze.jpg'
-global.thumbWarn = 'https://i.ibb.co/wQyLDLx/kaze.jpg'
-global.intro = 'https://i.ibb.co/PxSxQhd/20221103-171638.jpg'
+global.thumbBanned = 'https://i.ibb.co/K6tMcKc/peakpx-7.jpg'
+global.thumbWarn = 'https://i.ibb.co/K6tMcKc/peakpx-7.jpg'
+global.intro = 'https://i.ibb.co/Lht3Mvz/elaina-anime-gfx-design-by-imayaka-dfdu9u6.jpg'
 /*============== GLOBAL BIO ==============*/
 global.nameowner = `${global.nameown}`
-global.umurowner = '18'
-global.asalowner = 'Isekai'
-global.nomorowner = 'wa.me/6282217590187'
-global.pacarowner = 'Kinako chan><'
+global.umurowner = '15'
+global.asalowner = 'Indonesia, Jawa Barat, Kab.Bandung'
+global.nomorowner = 'wa.me/6285869074622'
+global.pacarowner = 'Kamu><'
 
 /*============== TEXT ==============*/
 global.wait = '_In progress, please wait..._'
 global.eror = '```GAGAL```'
-global.cptnya = `_Nih kak_\n\nJangan lupa mampir di channel *KAZEDEVID*`
+global.cptnya = `_Nih kak_\n\nJangan lupa makan ya Kak*`
 global.botintro = `Hai👋 Saya Adalah Bot WhatsApp Yang Bernama ${global.namebot}, Saya di buat oleh ${global.nameown} yang menggunakan bahasa nodejs`
 global.anticall = `kamu Di blockir oleh ${global.namebot} karena telah melanggar aturan ${global.namebot}\n\n*📮Dilarang menelepon ${global.namebot}!*`
 global.antiasing = ` See You Next Time `
@@ -115,7 +115,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://i.ibb.co/PxSxQhd/20221103-171638.jpg'
+global.thumbdoc = 'https://telegra.ph/file/06c4e93a3d3f388b2642d.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB

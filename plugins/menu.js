@@ -69,7 +69,7 @@ const defaultMenu = {
   header: '┏━━━▶〔 *%category* 〕◀━━━━⬣',
     body: '┃✇ %cmd %islimit %isPremium',
   footer: '┗━━━━━━⬣\n',
-  after: `  ${'✧\n┏━📮 *Note* :\n┃ DONT FORGET SUBSCRIBE MY CHANNEL! ^_^\n┗━━━━━━━━━━━━━━━━━━━⬣'}`,
+  after: `  ${'✧\n┏━📮 *Note* :\n┃ DONT FORGET TO PRAY! ^_^\n┗━━━━━━━━━━━━━━━━━━━⬣'}`,
 }
 let handler = async (m, { conn, usedPrefix, __dirname }) => {
   try {

@@ -9,7 +9,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
     const onet = Math.floor( Kurang % (1000 * 60 * 60) / (1000 * 60))
     const detek = Math.floor( Kurang % (1000 * 60) / 1000)
    let ultoh = `💌 Ultah Owner : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`
-  let info = `Bot ini menggunakan script by\n KazeDevID\n\n*Version:* Private Beta Tester`
+  let info = `Bot ini menggunakan script by\n ZansLord\n\n*Version:* 6.87.04`
 
 let td = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
 const message = {
